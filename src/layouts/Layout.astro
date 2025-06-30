@@ -48,8 +48,9 @@ const { frontmatter } = Astro.props;
           <hr>
 
           <Subtitle text="Skills" icon="fa-asterisk" />
-          <Skills lists={frontmatter.skills}/>
-          <br>
+          <SkillGroup lists={frontmatter.skills} />
+          <br />
+
 
           <Subtitle text="Languages" icon="fa-globe" />
           <Languages lists={frontmatter.languages}/>
