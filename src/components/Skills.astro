@@ -1,9 +1,15 @@
 ---
-const { lists } = Astro.props;
+import { skills } from '../data/skills.js';
 ---
-{lists.map((item) => (
-  <p>{item.name}</p>
-  <div class="w3-light-grey w3-round-xlarge w3-small">
-    <div class="w3-container w3-center w3-round-xlarge w3-teal" style={`width:${item.percentage}%`}>{item.percentage}%</div>
-  </div>
-))}
+<div class="skills-section">
+  {skills.map((group) => (
+    <section class="skill-group">
+      <h2>{group.category}</h2>
+      <ul>
+        {group.items.map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</div>
