@@ -7,10 +7,38 @@ address: 高雄市三民區昌裕街142巷14號
 email: indrasatriawans3@gmail.com
 telephone: ""
 skills:
-- Adobe Photoshop – Used for photo editing, UI mockups, and poster design
-- Photography – Specializing in portrait and product shoots since 2021
-- Illustrator – Used for icon design and vector illustration
-- Media – Experience with basic video editing and social media content planning
+  - category: "🧮 Artificial Intelligence & Machine Learning"
+    items:
+      - "Machine Learning Modeling (regression, classification, SVR)"
+      - "Multi-Objective Optimization (MOO)"
+      - "Metaheuristic Algorithms:"
+      - "‣ Flying Goose Optimization Algorithm (FGOA)"
+      - "‣ Particle Swarm Optimization (PSO)"
+      - "‣ Genetic Algorithm (GA)"
+      - "Benchmark Problems: ZDT, FON, SCH, SRN"
+      - "Evaluation Metrics: IGD, HV, GD"
+
+  - category: "📊 Data Science & Evaluation"
+    items:
+      - "RMSE, MAPE evaluation"
+      - "Data preprocessing and experiment design"
+      - "Cross-validation, data splitting (80:20)"
+
+  - category: "🧑‍💻 Programming & Tools"
+    items:
+      - "Python (NumPy, matplotlib, pymoo, scikit-learn)"
+      - "MATLAB (optimisasi, visualisasi, experiment loop)"
+      - "Git & GitHub (version control)"
+      - "Netlify (web deployment)"
+      - "HTML, CSS (basic frontend)"
+      - "Verilog HDL (hardware modeling, YUV to RGB converter)"
+
+  - category: "💡 Optimization & Algorithms"
+    items:
+      - "Pareto Archive (crowding distance, grid, diversity maintenance)"
+      - "Local refinement strategies in optimization"
+      - "Constraint handling (SRN-like problems)"
+      - "TSP (Travelling Salesman Problem) solver"
 languages:
 - language: English
   percentage: 100
