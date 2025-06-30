@@ -2,19 +2,15 @@
 layout: "../layouts/Layout.astro"
 name: Indra 
 image: "./avatar_hat.jpg"
-function: Designer
-address: London, UK
-email: babi
-telephone: "1224435534"
+function: AI Research & Optimization Engineer
+address: 高雄市三民區昌裕街142巷14號
+email: indrasatriawans3@gmail.com
+telephone: ""
 skills:
-- name: Adobe Photoshop
-  percentage: 90
-- name: Photography
-  percentage: 80
-- name: Illustrator
-  percentage: 75
-- name: Media
-  percentage: 50
+- Adobe Photoshop – Used for photo editing, UI mockups, and poster design
+- Photography – Specializing in portrait and product shoots since 2021
+- Illustrator – Used for icon design and vector illustration
+- Media – Experience with basic video editing and social media content planning
 languages:
 - language: English
   percentage: 100
