@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/Layout.astro"
-name: Jane Doe
+name: Indra 
 image: "./avatar_hat.jpg"
 function: Designer
 address: London, UK
