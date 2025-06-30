@@ -4,7 +4,7 @@ name: Indra
 image: "./avatar_hat.jpg"
 function: Designer
 address: London, UK
-email: ex@mail.com
+email: babi
 telephone: "1224435534"
 skills:
 - name: Adobe Photoshop
